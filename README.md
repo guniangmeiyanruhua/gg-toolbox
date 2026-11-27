@@ -26,10 +26,10 @@
 一键拉取运行（自定义域名，免下载）：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/guniangmeiyanruhua/gg-toolbox/main/gg-toolbox.sh)
+bash <(curl -fsSL https://tool.cnm.xx.kg)
 ```
 
-一键拉取运行后会自动安装：脚本存到 `/etc/gg-toolbox.sh` 并创建 `n`/`N` 快捷指令（不覆盖原 toolbox 的 `m`/`M`），之后在任意终端输入 `n` 或 `N` 即可打开。已安装时不会重复安装；更新走菜单里的“更新工具箱”（88）。
+一键拉取运行后会自动安装：脚本存到 `/etc/gg-toolbox.sh` 并创建 `l`/`L` 快捷指令（不覆盖原 toolbox 的 `m`/`M`），之后在任意终端输入 `l` 或 `L` 即可打开。已安装时不会重复安装；更新走菜单里的“更新工具箱”（88）。
 
 备用（GitHub 原始地址）：
 
@@ -40,7 +40,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/guniangmeiyanruhua/gg-toolbo
 或先下载再运行：
 
 ```bash
-curl -fsSL -o gg-toolbox.sh https://raw.githubusercontent.com/guniangmeiyanruhua/gg-toolbox/main/gg-toolbox.sh && bash gg-toolbox.sh
+curl -fsSL -o gg-toolbox.sh https://tool.cnm.xx.kg && bash gg-toolbox.sh
 ```
 
 

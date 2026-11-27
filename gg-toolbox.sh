@@ -8,14 +8,14 @@
 # 功能：
 # - 一级菜单加 ▶ 标识，字体绿色
 # - 二级菜单简洁显示，输入 1~99 都可执行
-# - 快捷指令 n / N 自动创建
+# - 快捷指令 l / L 自动创建
 # - 系统信息面板
 # - 彩色菜单和动态彩虹标题
 # - 完整安装/卸载
 
 INSTALL_PATH="/etc/gg-toolbox.sh"
-SHORTCUT_PATH="/usr/local/bin/n"
-SHORTCUT_PATH_UPPER="/usr/local/bin/N"
+SHORTCUT_PATH="/usr/local/bin/l"
+SHORTCUT_PATH_UPPER="/usr/local/bin/L"
 
 # 颜色
 green="\033[32m"
@@ -358,7 +358,7 @@ show_main_menu() {
     rainbow_animate "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
     # 标题文字改为纯黄色
-    echo -e "${ORANGE}📦 GGBond的工具箱${reset}${yellow}(快捷指令:N/n)${reset} ${ORANGE}📦${reset}"
+    echo -e "${ORANGE}📦 GGBond的工具箱${reset}${yellow}(快捷指令:L/l)${reset} ${ORANGE}📦${reset}"
 
     # 下边框保留彩虹效果
     rainbow_animate "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
@@ -535,7 +535,7 @@ execute_choice() {
         77) bash <(smart_curl https://raw.githubusercontent.com/guniangmeiyanruhua/gg-toolbox/main/tool/toolboxupdates.sh) ;;
         88)
             echo -e "${yellow}正在更新工具箱...${reset}"
-            if ! smart_curl "https://raw.githubusercontent.com/guniangmeiyanruhua/gg-toolbox/main/gg-toolbox.sh" > "$INSTALL_PATH"; then
+            if ! smart_curl "https://tool.cnm.xx.kg" > "$INSTALL_PATH"; then
                 echo -e "${red}更新失败，所有代理及直连均无法访问，请检查网络！${reset}"
                 return 1
             fi
@@ -588,14 +588,14 @@ ensure_shortcut() {
     if [[ $EUID -ne 0 ]]; then
         if command -v sudo >/dev/null 2>&1; then SUDO="sudo"; else return 0; fi
     fi
-    if smart_curl "https://raw.githubusercontent.com/guniangmeiyanruhua/gg-toolbox/main/gg-toolbox.sh" > /tmp/gg-toolbox-install.sh 2>/dev/null && [[ -s /tmp/gg-toolbox-install.sh ]]; then
+    if smart_curl "https://tool.cnm.xx.kg" > /tmp/gg-toolbox-install.sh 2>/dev/null && [[ -s /tmp/gg-toolbox-install.sh ]]; then
         $SUDO cp /tmp/gg-toolbox-install.sh "$INSTALL_PATH" 2>/dev/null
         $SUDO chmod +x "$INSTALL_PATH" 2>/dev/null
         $SUDO ln -sf "$INSTALL_PATH" "$SHORTCUT_PATH" 2>/dev/null
         $SUDO ln -sf "$INSTALL_PATH" "$SHORTCUT_PATH_UPPER" 2>/dev/null
         rm -f /tmp/gg-toolbox-install.sh
         if [[ -L "$SHORTCUT_PATH" ]]; then
-            echo -e "${green}已安装 GGBond的工具箱: 以后在终端输入 n 或 N 即可打开${reset}"
+            echo -e "${green}已安装 GGBond的工具箱: 以后在终端输入 l 或 L 即可打开${reset}"
             sleep 1
         fi
     else
