@@ -1,0 +1,4685 @@
+[
+ {
+  "file": "AI/AIClient2API.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/AIcheck.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Antigravity.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/BAIDUCHAT2API.sh",
+  "func": "",
+  "github": [
+   "XxxXTeam/baiduchat2api.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/CLIProxyAPI.sh",
+  "func": "",
+  "github": [
+   "router-for-me/Cli-Proxy-API-Management-Center"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/CPAUsageKeeper.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/ClaudeCode.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://claude.ai/install.sh"
+  ]
+ },
+ {
+  "file": "AI/ClaudeGate.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/CliRelay.sh",
+  "func": "",
+  "github": [
+   "kittors/CliRelay",
+   "kittors/codeProxy",
+   "kittors/codeProxy.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/CodeWhale.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Codeg.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/CodexCLI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://chatgpt.com/codex/install.sh"
+  ]
+ },
+ {
+  "file": "AI/CodexWebUI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/DrissionPage.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/GPTImagePanel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/GPTImagePlayground.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/GeminiBusiness2API.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/GeminiCLI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Gptsession.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Hermes.sh",
+  "func": "",
+  "github": [
+   "NousResearch/hermes-agent"
+  ],
+  "sh_urls": [
+   "https://repo.charm.sh"
+  ]
+ },
+ {
+  "file": "AI/Huobao-Drama.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/MIMO-2API.sh",
+  "func": "",
+  "github": [
+   "rong6/mimo-2api.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Model-Status.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/New-API.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Octopus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/OpenClaw.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/OpenCodeCLI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/OpenWebUI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Sub2API.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/TG4OpenCodeGo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/Transflux.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "AI/gcli2api.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/AP3X-UI.sh",
+  "func": "",
+  "github": [
+   "StarVM-OpenSource/3x-ui-Apline"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APAcme.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "Alpine/APAcmeZ.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "Alpine/APAcmebackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APAnyRealityS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APAnyTLS.sh",
+  "func": "",
+  "github": [
+   "anytls/anytls-go",
+   "repos/anytls"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APCFWARPtool.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APCaddy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APCaddybackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APDNS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APDocker.sh",
+  "func": "",
+  "github": [
+   "docker/compose",
+   "repos/docker"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APFRPx.sh",
+  "func": "",
+  "github": [
+   "fatedier/frp",
+   "repos/fatedier"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APFail2Ban.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APGeoFirewall.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APHTTPX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APHy2S.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "acmesh-official/acme.sh"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APHysteria2.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "acmesh-official/acme.sh"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APMTProto.sh",
+  "func": "",
+  "github": [
+   "9600/mtg",
+   "whunt1/onekeymakemtg"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APMosdns-x.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APNaiveProxyS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APNginx.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APNginx6.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APNginxbackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APOpenRCS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APOpenRCSE.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APRclone.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APRedsocks.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSB-AnyTLS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "Alpine/APSB-Hy2.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "Alpine/APSB-SS2022.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSNIProxyDNS.sh",
+  "func": "",
+  "github": [
+   "1-stream/1stream-public-utils",
+   "XIU2/SNIProxy",
+   "akile-network/aktools",
+   "repos/XIU2",
+   "repos/pymumu"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSS-2022.sh",
+  "func": "",
+  "github": [
+   "repos/shadowsocks",
+   "shadowsocks/shadowsocks-rust"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSSLbackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSSRust.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSShadowTLS.sh",
+  "func": "",
+  "github": [
+   "ihciah/shadow-tls",
+   "repos/ihciah",
+   "repos/shadowsocks",
+   "shadowsocks/shadowsocks-rust"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSnell.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSnellShadowTLS.sh",
+  "func": "",
+  "github": [
+   "ihciah/shadow-tls",
+   "repos/ihciah"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSnellv6.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSnellv6SS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSnellv6ShadowTLS.sh",
+  "func": "",
+  "github": [
+   "ihciah/shadow-tls",
+   "repos/ihciah"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APSocks5X.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APTuicv5S.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "Alpine/APTun2Socks.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APVlessEncryptionRalityX.sh",
+  "func": "",
+  "github": [
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APVlessEncryptionX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APVlessRealityX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APVlesshttpupgradeX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APVlesswstls.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "Alpine/APVmesswsS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APWARP-Rust.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APXary-HTTP.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APXrayVLESS-Encryption.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APXrayVLESS-Reality.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APfirewall.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APiptables.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APnext-socks5SS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APnextsocks5.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APqBittorrent-nox.sh",
+  "func": "",
+  "github": [
+   "repos/userdocs",
+   "userdocs/qbittorrent-nox-static"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APqBittorrent.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APsnapshotB.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APsnapshotR.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APvnstattg.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Alpine/APvpsup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "CN/CNGProxy.sh",
+  "func": "",
+  "github": [
+   "xtianowner/gproxy-tool.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "CN/toolupdate.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/015.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/2FAuth.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/91w.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ABS-Ximalaya.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ACMED.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/AList-TvBox.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ANIRSS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Acgfaka.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/AdGuardHome.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/AduoerWowOrigin.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Aegis-Relay.sh",
+  "func": "",
+  "github": [
+   "bear4f/aegis-relay.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Animaku.sh",
+  "func": "",
+  "github": [
+   "uerax/Animaku.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ApacheWebDAV.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Apprise.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Aria2.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Aria2DK.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/AriaNg.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/AstrBot.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Audiobookshelf.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/AutoBangumi.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/BEpusdt.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Backrest.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Baihu.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Beszel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/BiliLive-Tools.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Bitplay.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/BrowserD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/CFTUN-UI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/CaddyDocker.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Calends.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Chromium.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/CloudEye.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Cloudflare-panel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Cloudreve.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ComposeTool.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ConvertX.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/CookieCloud.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DBX.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DDNS-Go.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DaidaiPanel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DailyCheck.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DailyCheckIn-Plus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Databasus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DecoTV.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DecoTVD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Dnsmgr.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DockUP.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Dockcompbauck.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Docker.sh",
+  "func": "",
+  "github": [
+   "docker/compose",
+   "repos/docker"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DockerWindows.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Dockerclear.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Dockermo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/DownloadManager.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EasyImage2.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EasyImg.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EasySub.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Ech0.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EdgeEver.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Emby-In-One.sh",
+  "func": "",
+  "github": [
+   "ArizeSky/Emby-In-One.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Emby-Proxy-Go.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EmbyProxy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EmbyPulse.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EmbyRelay.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EmbyServerGF.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/EmbyTGBot.sh",
+  "func": "",
+  "github": [
+   "sd87671067/EmbyTGBot.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Embyserver.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Enclosed.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Epay-bot.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Epusdt.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Fakabot.sh",
+  "func": "",
+  "github": [
+   "yanguo888/fakabot.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/FileCodeBox.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Filebrowser.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Filetransfer.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Filetransfergo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Firefox.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/FirefoxJ.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/FlClouds.sh",
+  "func": "",
+  "github": [
+   "hicocos/FlClouds.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/FlareSolverr.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/FlatNAS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Fluxdown.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ForgejoGit.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ForumWatch.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Foxel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/GHProxy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Gitea.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/GlobalRadio.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/HomeLocationEndpoint.sh",
+  "func": "",
+  "github": [
+   "Loading886/Home-Location-Endpoint"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/HubProxy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Hubproxy78.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/IMGAPI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/IPTV-trmas.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/IYUUPlus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ImageSilo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Index-Translate.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Jellyfin.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/KSM-DNS.sh",
+  "func": "",
+  "github": [
+   "KSM-Team/KSM-DNS.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Kaloscope.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Kanban.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/KaraKeep.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Kavita.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Kerkerker.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Kikoeru.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Koipy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Komari.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/KomariTrafficHub.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Komga.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/KoodoReader.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/KumaMieru.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/LLBot.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/LX-Music.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/LangBot.sh",
+  "func": "",
+  "github": [
+   "langbot-app/LangBot"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/LinuxWebTool.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Lite.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Litegist.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Live-Event.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/LogVar.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/LrcApi.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/LskyPro2.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Lucky.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MCY.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MDCNG.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MHTI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MHTIS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MagicResume.sh",
+  "func": "",
+  "github": [
+   "JOYCEQL/magic-resume.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MagnetFix.sh",
+  "func": "",
+  "github": [
+   "poouo/magnet_fix.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MailGo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Mantou.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MariaDB.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MeBox.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MeTubeS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MediaStationGo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MediaryScout.sh",
+  "func": "",
+  "github": [
+   "fancydirty/mediary-scout.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Meridian.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MeridianEmby.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MetaTube.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MiaoMiaoWu.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Miaospeed.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MongoDB.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MoviePilotV2.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MoviePilotV3.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MusicTagWeb.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/MySQLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Navidrome.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Navigation.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/NezhaDashboard.sh",
+  "func": "",
+  "github": [
+   "login/oauth"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Nodeget.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/OneImg.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/OnePick.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/OpenList.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Outlook-Email-Plus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/OutlookMailHub.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/OutlookMailVoxi.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Pansou.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Paperphone-plus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ParseHubBot.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/PicHost.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Picloom.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Pixhelf.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Pixtale.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Pocket-ID.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/PocketDrive.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/PostgreSQL.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Poznote.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/PrivateRules.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Qinglong.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Quick-SSH.sh",
+  "func": "",
+  "github": [
+   "CCE-Li/Quick-SSH",
+   "repos/CCE-Li"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/RandomImageAPI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ReadCLI.sh",
+  "func": "",
+  "github": [
+   "lvshp/ReadCLI",
+   "repos/lvshp"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Reclip.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Redis.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Renewlet.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/SSHWeb.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/SaveAnyBot.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/SearXNG.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Send.sh",
+  "func": "",
+  "github": [
+   "gitlab:timvisee/send"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ShadowSSH.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/SiYuan.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/SiYuanNote.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Spellbook.sh",
+  "func": "",
+  "github": [
+   "danielzi/spellbook.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/StorageUI.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Store.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://ddsrem.com/xiaoya_install.sh"
+  ]
+ },
+ {
+  "file": "Docker/Sub-Store.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Subboost.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Subs-Check.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Subtracker.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Sun-Panel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Suwayomi.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/TG-SignPulse.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/TOTP-Share-Dashboard.sh",
+  "func": "",
+  "github": [
+   "Time999-1/totp-share-dashboard.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/TeleBox.sh",
+  "func": "",
+  "github": [
+   "TeleBoxOrg/TeleBox.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/TgtoDrive.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Tinyauth.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Translate.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Transmission.sh",
+  "func": "",
+  "github": [
+   "hisproc/transmission-next-ui",
+   "repos/hisproc"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/TuneScout.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/UPayPro.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/UptimeKuma.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Utilsfun.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Vaultfleet.sh",
+  "func": "",
+  "github": [
+   "momo-z/VaultFleet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Vaultwarden.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Vertex.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/VoceChat.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/VpsCT.sh",
+  "func": "",
+  "github": [
+   "YongshengWin/VpsCT.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Wallos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Watchtower.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Watchtowertg.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/WxChatpy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/WzFileManager.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ZUrl.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ZhuQue.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/Znote.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/dockerbots.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/dockerbotx.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/dockercompose.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/dockerfleetmaster.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/dockerfleetnode.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/dockerupdate.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/eooceWebSSH.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/games-ArenaBrawl.sh",
+  "func": "",
+  "github": [
+   "kejilion/game-collection.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/games-IceClimberArena.sh",
+  "func": "",
+  "github": [
+   "kejilion/game-collection.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/imgli.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/ktui.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/monitor.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/nowen-video.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/posteio.sh",
+  "func": "",
+  "github": [
+   "docker/compose"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/qBit-Bot.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/qBittorrent-nox.sh",
+  "func": "",
+  "github": [
+   "repos/userdocs",
+   "userdocs/qbittorrent-nox-static"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/qBittorrent.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/qbittorrentS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/tgfs.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Docker/yt-dlp.sh",
+  "func": "",
+  "github": [
+   "yt-dlp/yt-dlp"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/AnyTLSD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/AnyTLSGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/MTProtoD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/MTProtoGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/SSRust-tlsD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/SSRust-tlsGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/SSRust2022D.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/SSRust2022GLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Singbox-AnyRealityD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Singbox-AnyRealityGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Singbox-TUICv5D.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Singbox-TUICv5GLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-RealityD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-RealityGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-RealityxhttpD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-RealityxhttpGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-Socks5D.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-Socks5GLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-VlesshttpD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-VlesshttpGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-VmesswsD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-VmesswsGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-VmesswstlsD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/Xray-VmesswstlsGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/hysteria2D.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/hysteria2GLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/snell-serverD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/snell-serverGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/snelltls-serverD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Dockerproxy/snelltls-serverGLD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Games/ArenaBrawlD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Games/BombParty.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Games/IceClimberArenaD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Games/MCSManager.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Games/PuppyStardewServer.sh",
+  "func": "",
+  "github": [
+   "AmigaMeow/puppy-stardew-server.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/CLICD.sh",
+  "func": "",
+  "github": [
+   "MengMengCode/CLICD"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/DockerLXC.sh",
+  "func": "",
+  "github": [
+   "oneclickvirt/docker",
+   "spiritLHLS/addswap"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/DockerLXCx.sh",
+  "func": "",
+  "github": [
+   "oneclickvirt/docker"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/FOSSBilling.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/IDC-ONEMAN.sh",
+  "func": "",
+  "github": [
+   "oneman-idc/idc-oneman-V5.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/Incus.sh",
+  "func": "",
+  "github": [
+   "oneclickvirt/incus"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/LXD.sh",
+  "func": "",
+  "github": [
+   "oneclickvirt/lxd"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/LXDAPI.sh",
+  "func": "",
+  "github": [
+   "xkatld/lxdapi-web-server",
+   "xkatld/zjmf-lxd-server"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/LXDAPIX.sh",
+  "func": "",
+  "github": [
+   "xkatld/lxdapi-web-server"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/PVEGL.sh",
+  "func": "",
+  "github": [
+   "oneclickvirt/pve",
+   "spiritLHLS/addswap"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/PVEKVM.sh",
+  "func": "",
+  "github": [
+   "oneclickvirt/pve"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/PVELXC.sh",
+  "func": "",
+  "github": [
+   "oneclickvirt/pve"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/PayIncus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "NAT/Paymenter.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/3xuios.sh",
+  "func": "",
+  "github": [
+   "mhsanaei/3x-ui"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/AcmeZos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Acmeos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/AnyRealityos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/AnyTLSos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/BBRv3os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/CFWARPtoolos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Caddyos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/DNSos.sh",
+  "func": "系统管理 > DNS管理",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Dockersos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/FRPos.sh",
+  "func": "网络代理 > FRP管理",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Fail2banos.sh",
+  "func": "系统管理 > Fail2ban",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/GHProxygit.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/HTTPos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Hy2os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Hysteria2os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/MTProtoos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/MicaProxyos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Mosdnsxos.sh",
+  "func": "系统设置 > DNS优化",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/NaiveProxyos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Nginx6os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Nginxos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Rcloneos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Redsocksos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/RemnawaveNodeLiteos.sh",
+  "func": "",
+  "github": [
+   "ike-sh/remnawave-node-lite-go"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SB-AnyTLSos.sh",
+  "func": "网络代理 > AnyTLS",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SB-Hy2os.sh",
+  "func": "网络代理 > Hysteria2",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SB-SS2022os.sh",
+  "func": "网络代理 > Shadowsocks",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SNIProxyDNSos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SS-2022os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SSLbackupos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SSRustos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SSShadowTLSos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/SnellShadowTLSos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Snellos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Snellv6SSos.sh",
+  "func": "网络代理 > Snell",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Snellv6ShadowTLSos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Snellv6os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Socks5os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Tuicv5os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Tun2Socksos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/VlessEncryptionRealityos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/VlessEncryptionos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/VlessRealityos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/VlessRealityxhttpos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Vlesshttpupgradeos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Vlesswstlsos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Vmesswsos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/WARP-Rustos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/Xary-HTTPos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/XrayVLESS-Encryptionos.sh",
+  "func": "网络代理 > VlessEncryption",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/XrayVLESS-Realityos.sh",
+  "func": "网络代理 > VlessReality",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/firewallos.sh",
+  "func": "系统管理 > 防火墙管理",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/flux-panelos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/nextsocks5os.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/nftablesos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/qBittorrent-noxos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/qbittorrentos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/snapshotBos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/snapshotRos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/updateos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/vnstattgos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/vpsupos.sh",
+  "func": "系统设置 > 一键优化✨",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "OS/windowos.sh",
+  "func": "系统设置 > DDwindows",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/AWSLauncher.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/Alicloud_ECS_CDTPanel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/OCI-Pool.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/OVH-Console.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/RBot.sh",
+  "func": "",
+  "github": [
+   "semicons/java_oci_manage"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/StockHawk-OVH.sh",
+  "func": "",
+  "github": [
+   "super888-png/stockhawk-ovh.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/lookbusy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/oci-helper.sh",
+  "func": "",
+  "github": [
+   "Yohann0617/oci-helper",
+   "docker/compose"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/oci-start.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Oracle/oracle.sh",
+  "func": "",
+  "github": [
+   "Yohann0617/oci-helper",
+   "gitlab:spiritysdx/Oracle-server-keep-alive-script",
+   "mark-floyd/oci-ping"
+  ],
+  "sh_urls": [
+   "https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh"
+  ]
+ },
+ {
+  "file": "PROXY/2go.sh",
+  "func": "网络代理 > Xray-Argo",
+  "github": [
+   "XTLS/Xray-core",
+   "cloudflare/cloudflared"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/AnyRealityS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/AnyTLSS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "PROXY/AnyTLSgo.sh",
+  "func": "",
+  "github": [
+   "anytls/anytls-go",
+   "repos/anytls"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/BBR.sh",
+  "func": "网络代理 > BBR+TCP智能调参",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/BBRV3.sh",
+  "func": "",
+  "github": [
+   "kejilion/sh"
+  ],
+  "sh_urls": [
+   "https://jhb.ovh/jb/bbrv3arm.sh"
+  ]
+ },
+ {
+  "file": "PROXY/CFDDNSManager.sh",
+  "func": "",
+  "github": [
+   "bear4f/cloudflare-ddns-manager"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/CFWARPtool.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Cloudflare.sh",
+  "func": "",
+  "github": [
+   "cloudflare/cloudflared",
+   "repos/cloudflare"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Cloudflarehp2.sh",
+  "func": "",
+  "github": [
+   "cloudflare/cloudflared",
+   "repos/cloudflare"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Conflux.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/DDNS.sh",
+  "func": "网络代理 > DDNS动态域名",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/EasyTierD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/EasyTierx.sh",
+  "func": "网络代理 > EasyTier组网",
+  "github": [
+   "iu683/uu",
+   "repos/EasyTier"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/FLVX29.sh",
+  "func": "",
+  "github": [
+   "kure29/flvx"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/FRPx.sh",
+  "func": "",
+  "github": [
+   "fatedier/frp",
+   "repos/fatedier"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/ForwardX.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/ForwardXplus.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/HES.sh",
+  "func": "",
+  "github": [
+   "ccqwertyui/he-tunnel-manager"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/HTTPX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Hy2.sh",
+  "func": "",
+  "github": [
+   "apernet/hysteria",
+   "repos/apernet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "PROXY/Hysteria2.sh",
+  "func": "",
+  "github": [
+   "apernet/hysteria",
+   "repos/apernet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "PROXY/IP-Sentinel.sh",
+  "func": "",
+  "github": [
+   "hotyue/IP-Sentinel"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Link42-lg.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Link42.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://get.pmman.tech/sh/link42-agent.sh"
+  ]
+ },
+ {
+  "file": "PROXY/MTProto.sh",
+  "func": "",
+  "github": [
+   "whunt1/onekeymakemtg"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/MTProtoDD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/MTProtoDS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/MiGate.sh",
+  "func": "",
+  "github": [
+   "imzyb/MiGate"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/MiaoMiaoWuX.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/MicaProxy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/MicroWARP.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/NaiveProxyS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Nexora-VPN.sh",
+  "func": "",
+  "github": [
+   "nexora-vpn/panel"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/NodePassDash.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://run.nodepass.eu/np.sh"
+  ]
+ },
+ {
+  "file": "PROXY/OneBoard.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/PPanel.sh",
+  "func": "",
+  "github": [
+   "perfect-panel/ppanel-node"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Realmtimeout.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Redsocks.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/RelayPanel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Remnawave.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/S-UITrafficReset.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SB-AnyTLS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "PROXY/SB-Hy2.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "PROXY/SB-SS2022.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SNIProxyDNS.sh",
+  "func": "",
+  "github": [
+   "1-stream/1stream-public-utils",
+   "XIU2/SNIProxy",
+   "akile-network/aktools",
+   "pymumu/smartdns",
+   "repos/XIU2",
+   "repos/pymumu"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SS-2022.sh",
+  "func": "",
+  "github": [
+   "repos/shadowsocks",
+   "shadowsocks/shadowsocks-rust"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SSRust.sh",
+  "func": "",
+  "github": [
+   "repos/shadowsocks",
+   "shadowsocks/shadowsocks-rust"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SSShadowTLS.sh",
+  "func": "",
+  "github": [
+   "ihciah/shadow-tls",
+   "repos/ihciah",
+   "repos/shadowsocks",
+   "shadowsocks/shadowsocks-rust"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/ShellCrash.sh",
+  "func": "网络代理 > ShellCrash",
+  "github": [
+   "juewuy/ShellCrash"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SmartDNS.sh",
+  "func": "",
+  "github": [
+   "1-stream/1stream-public-utils",
+   "pymumu/smartdns",
+   "repos/pymumu"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Snell.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SnellShadowTLS.sh",
+  "func": "",
+  "github": [
+   "ihciah/shadow-tls",
+   "repos/ihciah"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Snellv6.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Snellv6SS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Snellv6ShadowTLS.sh",
+  "func": "",
+  "github": [
+   "ihciah/shadow-tls",
+   "repos/ihciah"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Socks5.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Socks5X.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/SubscriptionPage.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Tgzfxy.sh",
+  "func": "",
+  "github": [
+   "sd87671067/Tgzfxy.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/TrafficCop.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Tuicv5.sh",
+  "func": "",
+  "github": [
+   "EAimTY/tuic",
+   "repos/EAimTY"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "PROXY/Tun2Socks.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/VlessEncryptionRealityX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/VlessEncryptionX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/VlessRealityX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/VlessRealityxhttpX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/VlesshttpupgradeX.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/VlesswstlsS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "PROXY/VmesswsS.sh",
+  "func": "",
+  "github": [
+   "SagerNet/sing-box",
+   "repos/SagerNet"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/WARP-Rust.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/WARPmonitor.sh",
+  "func": "",
+  "github": [
+   "Michaol/warp_monitor"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/WebProxy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/WireGuard.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Xary-HTTP.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Xboard.sh",
+  "func": "",
+  "github": [
+   "cedar2025/Xboard"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/XboardNode.sh",
+  "func": "",
+  "github": [
+   "cedar2025/xboard-node"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/XboardNodeD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/XboardNodeDS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/XrayVLESS-Encryption.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/XrayVLESS-Reality.sh",
+  "func": "",
+  "github": [
+   "XTLS/Xray-core",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/Zelay.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/flux-panel.sh",
+  "func": "",
+  "github": [
+   "bqlpfy/flux-panel"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/flvx-panel.sh",
+  "func": "",
+  "github": [
+   "Sagit-chu/flvx"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/frp-Panel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/frp-panel-client.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/frp-panel-maste.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/frp-panel-server.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/mihob.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/mini-sb-agent.sh",
+  "func": "",
+  "github": [
+   "ashvvvvv/mini-sb-agent"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/next-socks5SS.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/nextsocks5.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/port-traffic-dog.sh",
+  "func": "",
+  "github": [
+   "duya07/port-traffic-dog"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/proxy.sh",
+  "func": "网络代理 > 代理工具箱",
+  "github": [
+   "233boy/sing-box",
+   "Eric86777/vps-tcp-tune",
+   "Henry00123/china_blocker",
+   "Hhz0823/1s-ui",
+   "JackHONGhy/xrayr-automated-install-script",
+   "Luckylos/xray-2go",
+   "RomanovCaesar/m-ui",
+   "Tangfffyx/sing-box",
+   "akile-network/aktools",
+   "baiduxc/gost-webui",
+   "baoweise-bot/aimili-vpngate",
+   "duya07/trafficcop-lite",
+   "fscarmen/sing-box",
+   "gitlab:fscarmen/warp",
+   "hiapb/hia-realm",
+   "kazeyukiro/3m-ui",
+   "mozisen/surge",
+   "mslxi/Liquid-Glass-Prism-dns",
+   "qqrrooty/EZgost",
+   "shenaba/2s-ui",
+   "xjetry/nft-forward",
+   "ylx2016/Linux-NetSpeed",
+   "zywe03/realm-xwPF"
+  ],
+  "sh_urls": [
+   "http://sh.nekoneko.cloud/tools.sh",
+   "https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh",
+   "https://s-ui.alireza0.dev/install.sh",
+   "https://vpszdm.com/warp-google.sh"
+  ]
+ },
+ {
+  "file": "PROXY/reality_checker.sh",
+  "func": "",
+  "github": [
+   "Loyalsoldier/geoip",
+   "V2RaySSR/RealityChecker",
+   "XTLS/RealiTLScanner",
+   "repos/XTLS"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallAcme.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallCFArgo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallCFWARP.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallCaddy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallDocker.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallEasyTier.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallFRP.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallGost.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallMihomo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallNginx.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallRealm.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallSingbox.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/uninstallXray.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/usque.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "PROXY/wg-easy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/1Panelx.sh",
+  "func": "",
+  "github": [
+   "okxlin/appstore"
+  ],
+  "sh_urls": [
+   "https://resource.fit2cloud.com/1panel/package/v2/quick_start.sh"
+  ]
+ },
+ {
+  "file": "Panel/ACG-FAKAD.sh",
+  "func": "",
+  "github": [
+   "lizhipay/acg-faka.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Artalk.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/BBS1ORG.sh",
+  "func": "",
+  "github": [
+   "bbs1org/bbs1org.git"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Baotax.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "http://download.bt.cn/install/bt-uninstall.sh",
+   "https://download.bt.cn/install/install_panel.sh"
+  ]
+ },
+ {
+  "file": "Panel/DuJiaoNext.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Flarum.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Halo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Moe-Counter.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Moments.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/MomentsBlog.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/OpenFlare.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/PandaWiki.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/RemioHome.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Rhex.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/SafeLine.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/SamWAF.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Twikoo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Typecho.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/Umami.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/WordPress.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/XiaojuSurvey.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/aaPanel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "http://download.bt.cn/install/bt-uninstall.sh",
+   "https://www.aapanel.com/script/install_panel_en.sh"
+  ]
+ },
+ {
+  "file": "Panel/html.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/kx1Panelv1.sh",
+  "func": "",
+  "github": [
+   "okxlin/appstore"
+  ],
+  "sh_urls": [
+   "https://resource.1panel.sb/1panel/package/quick_start.sh",
+   "https://resource.1panel.sb/1panel/package/update.sh"
+  ]
+ },
+ {
+  "file": "Panel/kx1Panelv2.sh",
+  "func": "",
+  "github": [
+   "okxlin/appstore"
+  ],
+  "sh_urls": [
+   "https://resource.1panel.sb/1panel/package/v2/quick_start.sh",
+   "https://resource.1panel.sb/1panel/package/v2/update.sh"
+  ]
+ },
+ {
+  "file": "Panel/kxbaota.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "http://download.bt.cn/install/bt-uninstall.sh",
+   "https://io.bt.sb/install/install_panel.sh",
+   "https://io.bt.sb/install/update_panel.sh"
+  ]
+ },
+ {
+  "file": "Panel/lsky-pro.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "Panel/panel.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://dl.acepanel.net/helper.sh",
+   "https://release.baizhi.cloud/panda-wiki/manager.sh",
+   "https://waf-ce.chaitin.cn/release/latest/manager.sh"
+  ]
+ },
+ {
+  "file": "Panel/simple-blog.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Acmes.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "VPS/AcmezeroSSL.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://get.acme.sh"
+  ]
+ },
+ {
+  "file": "VPS/Agents.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Caddy.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Croc.sh",
+  "func": "",
+  "github": [
+   "repos/schollz",
+   "schollz/croc"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/DDnat.sh",
+  "func": "系统设置 > NAT鸡重装系统",
+  "github": [
+   "LloydAsp/OsMutation"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/DHGL.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Debian12.sh",
+  "func": "",
+  "github": [
+   "bin456789/reinstall"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Debian13.sh",
+  "func": "系统设置 > DDdebian13",
+  "github": [
+   "bin456789/reinstall"
+  ],
+  "sh_urls": [
+   "https://cnb.cool/bin456789/reinstall/-/git/raw/main/reinstall.sh"
+  ]
+ },
+ {
+  "file": "VPS/GeoFirewall.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/GeoFirewallos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/HardwareQuality.sh",
+  "func": "网络检测 > 硬盘质量体检",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/IPQuality.sh",
+  "func": "网络检测 > IP质量体检",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Mosdns-x.sh",
+  "func": "",
+  "github": [
+   "pmkol/mosdns-x"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/NetQuality.sh",
+  "func": "网络检测 > 网络质量体检",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Networktoolx.sh",
+  "func": "网络检测 > 网络工具箱",
+  "github": [
+   "Akaere-NetWorks/speed-cloudflare-cli-rs",
+   "MiaM1ku/taierspeedtest",
+   "cazi-cc/Telegram-Speedtest",
+   "repos/Akaere-NetWorks",
+   "tsosunchia/iNetSpeed-CLI"
+  ],
+  "sh_urls": [
+   "https://tcpbench.com/run.sh"
+  ]
+ },
+ {
+  "file": "VPS/NextTrace.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/NodeQuality.sh",
+  "func": "网络检测 > NodeQuality",
+  "github": [
+   "gitlab:dabao/nodequality-proxy"
+  ],
+  "sh_urls": [
+   "https://gitlab.com/dabao/nodequality-proxy/-/raw/main/nodequality-proxy.sh"
+  ]
+ },
+ {
+  "file": "VPS/Rrsync.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/SSHDLGL.sh",
+  "func": "系统设置 > root登录管理",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/SSHPubkey.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/SSHkeyyc.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/SSLbackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/SWAP.sh",
+  "func": "系统管理 > 添加SWAP",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Security.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Speedtest.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/System.sh",
+  "func": "系统管理 > 系统监控",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/TcpQuality.sh",
+  "func": "网络检测 > TcpQuality",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/Telnet.sh",
+  "func": "网络检测 > 检查25端口开放",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/UFWFX.sh",
+  "func": "系统设置 > 开放所有端口",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/VPSDD.sh",
+  "func": "",
+  "github": [
+   "bin456789/reinstall"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/VPSTGbackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/acmebackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/beifen.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/caadybackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/clean-server.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/clear.sh",
+  "func": "系统管理 > 系统清理",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/crontab.sh",
+  "func": "系统管理 > 定时任务",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/ddfnos.sh",
+  "func": "",
+  "github": [
+   "bin456789/reinstall"
+  ],
+  "sh_urls": [
+   "https://cnb.cool/bin456789/reinstall/-/git/raw/main/reinstall.sh"
+  ]
+ },
+ {
+  "file": "VPS/dns.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/dockeros.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/ecsspeed.sh",
+  "func": "网络检测 > 三网测速",
+  "github": [
+   "spiritLHLS/ecsspeed"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/exploitation.sh",
+  "func": "系统管理 > 开发环境",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/fail2ban.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/firewall.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/home.sh",
+  "func": "系统设置 > 修改主机名",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/huanyuan.sh",
+  "func": "系统设置 > 更换系统源",
+  "github": [],
+  "sh_urls": [
+   "https://linuxmirrors.cn/main.sh"
+  ]
+ },
+ {
+  "file": "VPS/iperf3.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/killport.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/killprocess.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/killservice.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/killserviceos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/mhgl.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/mhzt.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/mhztcs.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/mtr.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/nezhassh.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/nftablesx.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/nginxbackup.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/ngixv4.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/ngixv6.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/open_all_ports.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/package.sh",
+  "func": "系统管理 > 系统组件",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/port.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/psaux.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/qhwl.sh",
+  "func": "系统设置 > 切换v4V6",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/rclone.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": [
+   "https://rclone.org/install.sh"
+  ]
+ },
+ {
+  "file": "VPS/reinstall.sh",
+  "func": "系统管理 > 重装系统",
+  "github": [
+   "bin456789/reinstall",
+   "leitbogioro/Tools"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/rmdocument.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/secretkey.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/service.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/serviceos.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/snapshotB.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/snapshotR.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/sshdk.sh",
+  "func": "系统设置 > 修改SSH端口",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/systemdtimesyncd.sh",
+  "func": "系统设置 > 时间同步",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/tarzip.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/test.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/time.sh",
+  "func": "系统设置 > 修改时区",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/tmux.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/unagent.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/unlockdns.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/update.sh",
+  "func": "系统设置 > 更新系统",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/vnstat.sh",
+  "func": "网络代理 > 流量监控",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/vnstattgx.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/vpsinfo.sh",
+  "func": "系统设置 > 系统信息",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/vpssetup.sh",
+  "func": "",
+  "github": [
+   "docker/compose",
+   "repos/docker"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/vpsup.sh",
+  "func": "",
+  "github": [
+   "docker/compose",
+   "repos/docker"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/window.sh",
+  "func": "",
+  "github": [
+   "bin456789/reinstall",
+   "leitbogioro/Tools"
+  ],
+  "sh_urls": [
+   "https://dl.lamp.sh"
+  ]
+ },
+ {
+  "file": "VPS/windowarm.sh",
+  "func": "",
+  "github": [
+   "bin456789/reinstall"
+  ],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/xgroot.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/xgyu.sh",
+  "func": "系统设置 > 修改语言",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "VPS/yasuo.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "gg-toolbox.sh",
+  "func": "",
+  "github": [
+   "Cd1s/network-latency-tester",
+   "Kylin010/tcpfit",
+   "gitlab:fscarmen/warp",
+   "gitlab:spiritysdx/za",
+   "ludashi2020/backtrace"
+  ],
+  "sh_urls": [
+   "https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh",
+   "https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh",
+   "https://yabs.sh"
+  ]
+ },
+ {
+  "file": "tool/toolboxupdates.sh",
+  "func": "更新卸载 > 自动更新",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "tool/update.sh",
+  "func": "系统设置 > 更新系统",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "tool/vps-toolbox.sh",
+  "func": "",
+  "github": [
+   "Cd1s/network-latency-tester",
+   "Kylin010/tcpfit",
+   "gitlab:fscarmen/warp",
+   "gitlab:spiritysdx/za",
+   "ludashi2020/backtrace",
+   "zywe03/realm-xwPF"
+  ],
+  "sh_urls": [
+   "https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh",
+   "https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh",
+   "https://yabs.sh"
+  ]
+ },
+ {
+  "file": "toy/JCQD.sh",
+  "func": "",
+  "github": [],
+  "sh_urls": []
+ },
+ {
+  "file": "toy/ipqualitys.sh",
+  "func": "",
+  "github": [
+   "gitlab:mr-potato/ipquality-proxy"
+  ],
+  "sh_urls": []
+ }
+]

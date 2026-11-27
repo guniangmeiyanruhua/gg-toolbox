@@ -1,0 +1,788 @@
+[
+ {
+  "project": "XTLS/Xray-core",
+  "url": "https://github.com/XTLS/Xray-core",
+  "used_by_files": 19,
+  "note": "Xray 核心 — XTLS 项目组"
+ },
+ {
+  "project": "SagerNet/sing-box",
+  "url": "https://github.com/SagerNet/sing-box",
+  "used_by_files": 18,
+  "note": "sing-box 核心 — SagerNet"
+ },
+ {
+  "project": "bin456789/reinstall",
+  "url": "https://github.com/bin456789/reinstall",
+  "used_by_files": 7,
+  "note": "DD 重装系统脚本 — bin456789"
+ },
+ {
+  "project": "docker/compose",
+  "url": "https://github.com/docker/compose",
+  "used_by_files": 6,
+  "note": "Docker Compose — Docker 官方"
+ },
+ {
+  "project": "ihciah/shadow-tls",
+  "url": "https://github.com/ihciah/shadow-tls",
+  "used_by_files": 6,
+  "note": "Shadow-TLS — ihciah"
+ },
+ {
+  "project": "shadowsocks/shadowsocks-rust",
+  "url": "https://github.com/shadowsocks/shadowsocks-rust",
+  "used_by_files": 5,
+  "note": "Shadowsocks Rust 官方版"
+ },
+ {
+  "project": "1-stream/1stream-public-utils",
+  "url": "https://github.com/1-stream/1stream-public-utils",
+  "used_by_files": 3,
+  "note": "1Stream 工具 — 1-stream"
+ },
+ {
+  "project": "akile-network/aktools",
+  "url": "https://github.com/akile-network/aktools",
+  "used_by_files": 3,
+  "note": "Akile 工具集 — akile-network"
+ },
+ {
+  "project": "oneclickvirt/pve",
+  "url": "https://github.com/oneclickvirt/pve",
+  "used_by_files": 3,
+  "note": "PVE 开小鸡 — oneclickvirt"
+ },
+ {
+  "project": "cloudflare/cloudflared",
+  "url": "https://github.com/cloudflare/cloudflared",
+  "used_by_files": 3,
+  "note": "cloudflared — Cloudflare 官方"
+ },
+ {
+  "project": "gitlab:fscarmen/warp",
+  "url": "https://gitlab.com/fscarmen/warp",
+  "used_by_files": 3,
+  "note": "WARP 一键脚本 — fscarmen"
+ },
+ {
+  "project": "okxlin/appstore",
+  "url": "https://github.com/okxlin/appstore",
+  "used_by_files": 3,
+  "note": "1Panel 第三方应用商店 — okxlin"
+ },
+ {
+  "project": "anytls/anytls-go",
+  "url": "https://github.com/anytls/anytls-go",
+  "used_by_files": 2,
+  "note": "AnyTLS — anytls 项目组"
+ },
+ {
+  "project": "fatedier/frp",
+  "url": "https://github.com/fatedier/frp",
+  "used_by_files": 2,
+  "note": "FRP 内网穿透 — fatedier"
+ },
+ {
+  "project": "acmesh-official/acme.sh",
+  "url": "https://github.com/acmesh-official/acme.sh",
+  "used_by_files": 2,
+  "note": "acme.sh 证书工具 — Neilpang"
+ },
+ {
+  "project": "whunt1/onekeymakemtg",
+  "url": "https://github.com/whunt1/onekeymakemtg",
+  "used_by_files": 2,
+  "note": "MTProto 一键脚本 — whunt1"
+ },
+ {
+  "project": "XIU2/SNIProxy",
+  "url": "https://github.com/XIU2/SNIProxy",
+  "used_by_files": 2,
+  "note": "SNIProxy — XIU2"
+ },
+ {
+  "project": "userdocs/qbittorrent-nox-static",
+  "url": "https://github.com/userdocs/qbittorrent-nox-static",
+  "used_by_files": 2,
+  "note": "qBittorrent 静态编译 — userdocs"
+ },
+ {
+  "project": "kejilion/game-collection.git",
+  "url": "https://github.com/kejilion/game-collection",
+  "used_by_files": 2,
+  "note": "游戏合集 — kejilion(科技lion)"
+ },
+ {
+  "project": "oneclickvirt/docker",
+  "url": "https://github.com/oneclickvirt/docker",
+  "used_by_files": 2,
+  "note": "Docker 开小鸡 — oneclickvirt"
+ },
+ {
+  "project": "spiritLHLS/addswap",
+  "url": "https://github.com/spiritLHLS/addswap",
+  "used_by_files": 2,
+  "note": "SWAP 工具 — spiritLHLS"
+ },
+ {
+  "project": "xkatld/lxdapi-web-server",
+  "url": "https://github.com/xkatld/lxdapi-web-server",
+  "used_by_files": 2,
+  "note": "LXD 管理面板 — xkatld"
+ },
+ {
+  "project": "Yohann0617/oci-helper",
+  "url": "https://github.com/Yohann0617/oci-helper",
+  "used_by_files": 2,
+  "note": "甲骨文助手 — Yohann0617"
+ },
+ {
+  "project": "apernet/hysteria",
+  "url": "https://github.com/apernet/hysteria",
+  "used_by_files": 2,
+  "note": "Hysteria2 — apernet 官方"
+ },
+ {
+  "project": "pymumu/smartdns",
+  "url": "https://github.com/pymumu/smartdns",
+  "used_by_files": 2,
+  "note": "SmartDNS — pymumu"
+ },
+ {
+  "project": "zywe03/realm-xwPF",
+  "url": "https://github.com/zywe03/realm-xwPF",
+  "used_by_files": 2,
+  "note": "Realm 转发面板 — zywe03"
+ },
+ {
+  "project": "leitbogioro/Tools",
+  "url": "https://github.com/leitbogioro/Tools",
+  "used_by_files": 2,
+  "note": "DD/工具脚本 — leitbogioro"
+ },
+ {
+  "project": "Cd1s/network-latency-tester",
+  "url": "https://github.com/Cd1s/network-latency-tester",
+  "used_by_files": 2,
+  "note": "网络延迟测试 — Cd1s"
+ },
+ {
+  "project": "Kylin010/tcpfit",
+  "url": "https://github.com/Kylin010/tcpfit",
+  "used_by_files": 2,
+  "note": "Tcpfit TCP 调优 — Kylin010"
+ },
+ {
+  "project": "gitlab:spiritysdx/za",
+  "url": "https://gitlab.com/spiritysdx/za",
+  "used_by_files": 2,
+  "note": "ZA 工具 — spiritysdx"
+ },
+ {
+  "project": "ludashi2020/backtrace",
+  "url": "https://github.com/ludashi2020/backtrace",
+  "used_by_files": 2,
+  "note": "回程路由测试 — ludashi2020"
+ },
+ {
+  "project": "XxxXTeam/baiduchat2api.git",
+  "url": "https://github.com/XxxXTeam/baiduchat2api",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "router-for-me/Cli-Proxy-API-Management-Center",
+  "url": "https://github.com/router-for-me/Cli-Proxy-API-Management-Center",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "kittors/CliRelay",
+  "url": "https://github.com/kittors/CliRelay",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "kittors/codeProxy",
+  "url": "https://github.com/kittors/codeProxy",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "kittors/codeProxy.git",
+  "url": "https://github.com/kittors/codeProxy",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "rong6/mimo-2api.git",
+  "url": "https://github.com/rong6/mimo-2api",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "StarVM-OpenSource/3x-ui-Apline",
+  "url": "https://github.com/StarVM-OpenSource/3x-ui-Apline",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "9600/mtg",
+  "url": "https://github.com/9600/mtg",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "xtianowner/gproxy-tool.git",
+  "url": "https://github.com/xtianowner/gproxy-tool",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "bear4f/aegis-relay.git",
+  "url": "https://github.com/bear4f/aegis-relay",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "uerax/Animaku.git",
+  "url": "https://github.com/uerax/Animaku",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "ArizeSky/Emby-In-One.git",
+  "url": "https://github.com/ArizeSky/Emby-In-One",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "sd87671067/EmbyTGBot.git",
+  "url": "https://github.com/sd87671067/EmbyTGBot",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "yanguo888/fakabot.git",
+  "url": "https://github.com/yanguo888/fakabot",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "hicocos/FlClouds.git",
+  "url": "https://github.com/hicocos/FlClouds",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Loading886/Home-Location-Endpoint",
+  "url": "https://github.com/Loading886/Home-Location-Endpoint",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "KSM-Team/KSM-DNS.git",
+  "url": "https://github.com/KSM-Team/KSM-DNS",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "langbot-app/LangBot",
+  "url": "https://github.com/langbot-app/LangBot",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "JOYCEQL/magic-resume.git",
+  "url": "https://github.com/JOYCEQL/magic-resume",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "poouo/magnet_fix.git",
+  "url": "https://github.com/poouo/magnet_fix",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "fancydirty/mediary-scout.git",
+  "url": "https://github.com/fancydirty/mediary-scout",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "login/oauth",
+  "url": "https://github.com/login/oauth",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "CCE-Li/Quick-SSH",
+  "url": "https://github.com/CCE-Li/Quick-SSH",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "lvshp/ReadCLI",
+  "url": "https://github.com/lvshp/ReadCLI",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "gitlab:timvisee/send",
+  "url": "https://gitlab.com/timvisee/send",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "danielzi/spellbook.git",
+  "url": "https://github.com/danielzi/spellbook",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Time999-1/totp-share-dashboard.git",
+  "url": "https://github.com/Time999-1/totp-share-dashboard",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "TeleBoxOrg/TeleBox.git",
+  "url": "https://github.com/TeleBoxOrg/TeleBox",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "hisproc/transmission-next-ui",
+  "url": "https://github.com/hisproc/transmission-next-ui",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "momo-z/VaultFleet",
+  "url": "https://github.com/momo-z/VaultFleet",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "YongshengWin/VpsCT.git",
+  "url": "https://github.com/YongshengWin/VpsCT",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "yt-dlp/yt-dlp",
+  "url": "https://github.com/yt-dlp/yt-dlp",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "AmigaMeow/puppy-stardew-server.git",
+  "url": "https://github.com/AmigaMeow/puppy-stardew-server",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "MengMengCode/CLICD",
+  "url": "https://github.com/MengMengCode/CLICD",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "oneman-idc/idc-oneman-V5.git",
+  "url": "https://github.com/oneman-idc/idc-oneman-V5",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "oneclickvirt/incus",
+  "url": "https://github.com/oneclickvirt/incus",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "oneclickvirt/lxd",
+  "url": "https://github.com/oneclickvirt/lxd",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "xkatld/zjmf-lxd-server",
+  "url": "https://github.com/xkatld/zjmf-lxd-server",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "mhsanaei/3x-ui",
+  "url": "https://github.com/mhsanaei/3x-ui",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "ike-sh/remnawave-node-lite-go",
+  "url": "https://github.com/ike-sh/remnawave-node-lite-go",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "semicons/java_oci_manage",
+  "url": "https://github.com/semicons/java_oci_manage",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "super888-png/stockhawk-ovh.git",
+  "url": "https://github.com/super888-png/stockhawk-ovh",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "gitlab:spiritysdx/Oracle-server-keep-alive-script",
+  "url": "https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "mark-floyd/oci-ping",
+  "url": "https://github.com/mark-floyd/oci-ping",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "kejilion/sh",
+  "url": "https://github.com/kejilion/sh",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "bear4f/cloudflare-ddns-manager",
+  "url": "https://github.com/bear4f/cloudflare-ddns-manager",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "iu683/uu",
+  "url": "https://github.com/iu683/uu",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "kure29/flvx",
+  "url": "https://github.com/kure29/flvx",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "ccqwertyui/he-tunnel-manager",
+  "url": "https://github.com/ccqwertyui/he-tunnel-manager",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "hotyue/IP-Sentinel",
+  "url": "https://github.com/hotyue/IP-Sentinel",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "imzyb/MiGate",
+  "url": "https://github.com/imzyb/MiGate",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "nexora-vpn/panel",
+  "url": "https://github.com/nexora-vpn/panel",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "perfect-panel/ppanel-node",
+  "url": "https://github.com/perfect-panel/ppanel-node",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "juewuy/ShellCrash",
+  "url": "https://github.com/juewuy/ShellCrash",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "sd87671067/Tgzfxy.git",
+  "url": "https://github.com/sd87671067/Tgzfxy",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "EAimTY/tuic",
+  "url": "https://github.com/EAimTY/tuic",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Michaol/warp_monitor",
+  "url": "https://github.com/Michaol/warp_monitor",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "cedar2025/Xboard",
+  "url": "https://github.com/cedar2025/Xboard",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "cedar2025/xboard-node",
+  "url": "https://github.com/cedar2025/xboard-node",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "bqlpfy/flux-panel",
+  "url": "https://github.com/bqlpfy/flux-panel",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Sagit-chu/flvx",
+  "url": "https://github.com/Sagit-chu/flvx",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "ashvvvvv/mini-sb-agent",
+  "url": "https://github.com/ashvvvvv/mini-sb-agent",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "duya07/port-traffic-dog",
+  "url": "https://github.com/duya07/port-traffic-dog",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "233boy/sing-box",
+  "url": "https://github.com/233boy/sing-box",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Eric86777/vps-tcp-tune",
+  "url": "https://github.com/Eric86777/vps-tcp-tune",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Henry00123/china_blocker",
+  "url": "https://github.com/Henry00123/china_blocker",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Hhz0823/1s-ui",
+  "url": "https://github.com/Hhz0823/1s-ui",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "JackHONGhy/xrayr-automated-install-script",
+  "url": "https://github.com/JackHONGhy/xrayr-automated-install-script",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Luckylos/xray-2go",
+  "url": "https://github.com/Luckylos/xray-2go",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "RomanovCaesar/m-ui",
+  "url": "https://github.com/RomanovCaesar/m-ui",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Tangfffyx/sing-box",
+  "url": "https://github.com/Tangfffyx/sing-box",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "baiduxc/gost-webui",
+  "url": "https://github.com/baiduxc/gost-webui",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "baoweise-bot/aimili-vpngate",
+  "url": "https://github.com/baoweise-bot/aimili-vpngate",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "duya07/trafficcop-lite",
+  "url": "https://github.com/duya07/trafficcop-lite",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "fscarmen/sing-box",
+  "url": "https://github.com/fscarmen/sing-box",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "hiapb/hia-realm",
+  "url": "https://github.com/hiapb/hia-realm",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "kazeyukiro/3m-ui",
+  "url": "https://github.com/kazeyukiro/3m-ui",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "mozisen/surge",
+  "url": "https://github.com/mozisen/surge",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "mslxi/Liquid-Glass-Prism-dns",
+  "url": "https://github.com/mslxi/Liquid-Glass-Prism-dns",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "qqrrooty/EZgost",
+  "url": "https://github.com/qqrrooty/EZgost",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "shenaba/2s-ui",
+  "url": "https://github.com/shenaba/2s-ui",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "xjetry/nft-forward",
+  "url": "https://github.com/xjetry/nft-forward",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "ylx2016/Linux-NetSpeed",
+  "url": "https://github.com/ylx2016/Linux-NetSpeed",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Loyalsoldier/geoip",
+  "url": "https://github.com/Loyalsoldier/geoip",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "V2RaySSR/RealityChecker",
+  "url": "https://github.com/V2RaySSR/RealityChecker",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "XTLS/RealiTLScanner",
+  "url": "https://github.com/XTLS/RealiTLScanner",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "lizhipay/acg-faka.git",
+  "url": "https://github.com/lizhipay/acg-faka",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "bbs1org/bbs1org.git",
+  "url": "https://github.com/bbs1org/bbs1org",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "schollz/croc",
+  "url": "https://github.com/schollz/croc",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "LloydAsp/OsMutation",
+  "url": "https://github.com/LloydAsp/OsMutation",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "pmkol/mosdns-x",
+  "url": "https://github.com/pmkol/mosdns-x",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "Akaere-NetWorks/speed-cloudflare-cli-rs",
+  "url": "https://github.com/Akaere-NetWorks/speed-cloudflare-cli-rs",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "MiaM1ku/taierspeedtest",
+  "url": "https://github.com/MiaM1ku/taierspeedtest",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "cazi-cc/Telegram-Speedtest",
+  "url": "https://github.com/cazi-cc/Telegram-Speedtest",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "tsosunchia/iNetSpeed-CLI",
+  "url": "https://github.com/tsosunchia/iNetSpeed-CLI",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "gitlab:dabao/nodequality-proxy",
+  "url": "https://gitlab.com/dabao/nodequality-proxy",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "spiritLHLS/ecsspeed",
+  "url": "https://github.com/spiritLHLS/ecsspeed",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "gitlab:mr-potato/ipquality-proxy",
+  "url": "https://gitlab.com/mr-potato/ipquality-proxy",
+  "used_by_files": 1,
+  "note": ""
+ },
+ {
+  "project": "EasyTier/EasyTier",
+  "url": "https://github.com/EasyTier/EasyTier",
+  "used_by_files": 0,
+  "note": ""
+ }
+]
